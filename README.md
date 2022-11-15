@@ -1,4 +1,4 @@
-Cara menginstall package readlineSync 
+Cara menginstall package readlineSync. 
 Buka terminal yang ada di windows kamu
 lalu ketikan
 
